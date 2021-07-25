@@ -1,1 +1,1 @@
-# aiLooker_django_react_20210725
+# aiLooker_django_react_725
